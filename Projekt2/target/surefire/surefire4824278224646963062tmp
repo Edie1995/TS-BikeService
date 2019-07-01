@@ -1,0 +1,10 @@
+#surefire
+#Thu Jun 13 19:11:41 CEST 2019
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\kruko\\OneDrive\\Dokumenty\\NetBeansProjects\\Projekt2
+file.encoding=UTF-8
+localRepository=C\:\\Users\\kruko\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.debugmode=true
+netbeans.deploy.clientUrlPart=/login.jsp
+basedir=C\:\\Users\\kruko\\OneDrive\\Dokumenty\\NetBeansProjects\\Projekt2
